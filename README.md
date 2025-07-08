@@ -1,10 +1,13 @@
-// I code things sometimes. 
 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=PSCourtney&&style=flat-square" align="center" />
-</div>  
-  
+ **C# Blazor Full-Stack Developer**  
+Crafting modern web apps with .NET
 
-<br/>  
 
+ **Projects**
+
+- **[DoseDiary](https://dosediary.app/)** – GLP-1 tracking PWA
+- **PocketBaseSharp** – C# SDK for PocketBase   
+
+
+---
